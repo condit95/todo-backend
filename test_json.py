@@ -1,0 +1,27 @@
+entry = {
+  "title": "Продукты",
+  "entries": [
+    {
+      "title": "Мясо",
+      "entries": [
+        {
+          "title": "Сосиски",
+          "entries": []
+        }
+      ]
+    },
+    {
+      "title": "Яйцо",
+      "entries": []
+    },
+    {
+      "title": "Молоко",
+      "entries": [
+        {
+          "title": "Йогурт",
+          "entries": []
+        }
+      ]
+    }
+  ]
+}
